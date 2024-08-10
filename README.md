@@ -1,0 +1,2 @@
+# BibliaBilingueApp
+Biblia Bilingue
